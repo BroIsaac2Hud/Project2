@@ -21,7 +21,8 @@ ytext = y.toString();
 ztext = z.toString();
 
 function startGame() {
-    window.location.href = "index.html";
+    window.location.href = "game.html";
+    //window.location.href = "index.html";
 }
 
 function changeText() {
